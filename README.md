@@ -1,5 +1,5 @@
 # PROJECTREPO1-2023
-This is my work from the spring portion of my QISE course I am taking.
+This is our groups project from the spring portion of our QISE course I am taking.
 I will be completing a Quantum Coding Project for an Assignment.
 By using what we have learned throughout our quantum information science and engineering class we will be able to construct a quantum computing game. 
 We will utilize different concepts such as quantum measurement and different gates to program our game. 
